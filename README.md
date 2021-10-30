@@ -1,1 +1,2 @@
-# SEEDlabSQLinjection
+# SEEDlabSQLInjection
+SQL Injection Attack
